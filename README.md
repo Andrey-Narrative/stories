@@ -1,7 +1,7 @@
 # SIM-NARRATIVE: STORIES
 ## A Collection of Multi-Layered Narratives
 
-**Author:** Andrey Narrativ (Andrey Shvets)  
+**Author:** Andrey Narrativ 
 **Genre:** Sim-narrative (multi-layered prose)  
 **Status:** In progress (being published)  
 **License:** CC BY 4.0 (for texts and descriptions)
@@ -75,7 +75,7 @@ The stories are being published one by one on various platforms. After all 12 ar
 
 ## License
 
-The texts are available under the [Creative Commons Attribution 4.0 International License][cc-by]. You are free to share and adapt them, provided you give appropriate credit to the author (Andrey Narrativ / Andrey Shvets) and indicate if changes were made.
+The texts are available under the [Creative Commons Attribution 4.0 International License][cc-by]. You are free to share and adapt them, provided you give appropriate credit to the author (Andrey Narrativ  and indicate if changes were made.
 
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
